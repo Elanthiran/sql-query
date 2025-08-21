@@ -56,6 +56,10 @@ cd sql-query
 
 ## 📸 Screenshots
 
+![sql-query](./sql/1.png)
+
+![sql-query](./sql/18.png)
+
 ---
 
 ## 🛠️ Tech Stack
